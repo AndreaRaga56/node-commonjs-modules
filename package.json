@@ -1,0 +1,11 @@
+{
+  "name": "commonjs-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch ./app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
